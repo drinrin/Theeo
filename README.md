@@ -1,2 +1,0 @@
-# Theeo
-Discord Music Bot
